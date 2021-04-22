@@ -6,7 +6,7 @@
  * structures and definitions for the int 13h, ax={41,48}h
  * BIOS Enhanced Disk Drive Services
  * This is based on the T13 group document D1572 Revision 0 (August 14 2002)
- * available at http://www.t13.org/docs2002/d1572r0.pdf.  It is
+ * available at https://web.archive.org/web/20030315021412/http://www.t13.org/docs2002/d1572r0.pdf  It is
  * very similar to D1484 Revision 3 http://www.t13.org/docs2002/d1484r3.pdf
  *
  * In a nutshell, arch/{i386,x86_64}/boot/setup.S populates a scratch

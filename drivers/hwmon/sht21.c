@@ -17,7 +17,7 @@
  * Foundation, Inc., 51 Franklin St - Fifth Floor, Boston, MA 02110-1301 USA
  *
  * Data sheet available (5/2010) at
- * http://www.sensirion.com/en/pdf/product_information/Datasheet-humidity-sensor-SHT21.pdf
+ * https://web.archive.org/web/20100331094951/http://www.sensirion.com/en/pdf/product_information/Datasheet-humidity-sensor-SHT21.pdf
  */
 
 #include <linux/module.h>
