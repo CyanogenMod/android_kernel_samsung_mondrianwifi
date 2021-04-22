@@ -175,7 +175,7 @@
  * Brownell.  The driver's SCSI command interface was based on the
  * "Information technology - Small Computer System Interface - 2"
  * document from X3T9.2 Project 375D, Revision 10L, 7-SEP-93,
- * available at <http://www.t10.org/ftp/t10/drafts/s2/s2-r10l.pdf>.
+ * available at <https://web.archive.org/web/20030709201712/http://www.t10.org/ftp/t10/drafts/s2/s2-r10l.pdf>.
  * The single exception is opcode 0x23 (READ FORMAT CAPACITIES), which
  * was based on the "Universal Serial Bus Mass Storage Class UFI
  * Command Specification" document, Revision 1.0, December 14, 1998,

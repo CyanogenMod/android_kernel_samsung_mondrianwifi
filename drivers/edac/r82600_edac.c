@@ -11,7 +11,8 @@
  *
  * Written with reference to 82600 High Integration Dual PCI System
  * Controller Data Book:
- * www.radisys.com/files/support_downloads/007-01277-0002.82600DataBook.pdf
+ * https://web.archive.org/web/20050125221641/https://www.radisys.com/files/support_downloads/007-01277-0002.82600DataBook.pdf
+
  * references to this document given in []
  */
 

@@ -15,7 +15,7 @@
  *  Rewritten for 2.6 by Cesar Eduardo Barros
  *
  *  A datasheet for this chip can be found at
- *  http://www.silan.com.cn/english/product/pdf/SC92031AY.pdf 
+ *  https://web.archive.org/web/20090306060051/http://www.silan.com.cn/english/product/pdf/SC92031AY.pdf
  */
 
 /* Note about set_mac_address: I don't know how to change the hardware

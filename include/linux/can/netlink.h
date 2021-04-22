@@ -17,7 +17,7 @@
  *
  * For further information, please read chapter "8 BIT TIMING
  * REQUIREMENTS" of the "Bosch CAN Specification version 2.0"
- * at http://www.semiconductors.bosch.de/pdf/can2spec.pdf.
+ * at https://web.archive.org/web/20100922201217/http://www.semiconductors.bosch.de/pdf/can2spec.pdf
  */
 struct can_bittiming {
 	__u32 bitrate;		/* Bit-rate in bits/second */
